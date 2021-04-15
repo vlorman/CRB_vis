@@ -5,8 +5,8 @@ account: vlorman
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3967393
-bundleId: 4472726
+bundleId: 4472736
 url: https://vlorman.shinyapps.io/RPD_complaints_visualization/
-when: 1618446236.51839
+when: 1618446445.24979
 asMultiple: FALSE
 asStatic: FALSE

@@ -7,7 +7,7 @@ library(dplyr)
 fluidPage(    
   
   # Give the page a title
-  titlePanel("What happens to complains about the Rochester Police Department?"),
+  titlePanel("What happens to complains made against the Rochester Police Department?"),
   
   # Generate a row with a sidebar
   sidebarLayout(      
